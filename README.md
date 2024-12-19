@@ -243,7 +243,7 @@ qemu-system-x86_64 \
 **Arch**
 
 ```console
-sudo pacman -Syu gnupg pcsclite ccid yubikey-personalization
+sudo pacman -Syu gnupg pcsclite ccid yubikey-personalization wget
 ```
 
 **RHEL7**
